@@ -82,7 +82,7 @@ class AcomodarFavoritos(private val context: Context, private var musicList: Arr
     }
 
     @SuppressLint("NotifyDataSetChanged")
-    fun updateFavorites(newList: ArrayList<Musica>){
+    fun ActualizarFavoritos(newList: ArrayList<Musica>){
         musicList = ArrayList()
         musicList.addAll(newList)
         notifyDataSetChanged()
