@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_playlist.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_playlist.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_selection.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_selection.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/nav_header.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_settings.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/bottom_sheet_dialog.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_player.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/add_playlist_dialog.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/add_playlist_dialog.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/fragment_now_playing.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/fragment_now_playing.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/details_view.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/details_view.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/music_view.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/music_view.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_feedback.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/favourite_view.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/favourite_view.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_playlist_details.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_playlist_details.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/playlist_view.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/playlist_view.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/audio_booster.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/audio_booster.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_about.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/more_features.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/more_features.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_play_next.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_play_next.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-mergeDebugResources-30:/layout/activity_favourite.xml",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_favourite.xml"
+    }
+]

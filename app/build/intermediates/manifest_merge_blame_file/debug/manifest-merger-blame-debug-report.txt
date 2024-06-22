@@ -1,0 +1,219 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.harshRajpurohit.musicPlayer"
+4    android:versionCode="10"
+5    android:versionName="2.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- <uses-permission -->
+12    <!-- android:name="android.permission.WRITE_EXTERNAL_STORAGE" -->
+13    <!-- tools:ignore="ScopedStorage" /> -->
+14
+15    <uses-permission
+15-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:9:5-10:38
+16        android:name="android.permission.READ_EXTERNAL_STORAGE"
+16-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:9:22-77
+17        android:maxSdkVersion="32" />
+17-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:10:9-35
+18
+19    <!-- permission for android 13 -->
+20    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+20-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:13:5-74
+20-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:13:22-72
+21    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+21-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:15:5-77
+21-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:15:22-74
+22
+23    <!-- Permission for Android 14 -->
+24    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+24-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:18:5-91
+24-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:18:22-89
+25    <uses-permission android:name="android.permission.INTERNET" />
+25-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:20:5-67
+25-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:20:22-64
+26
+27    <permission
+27-->[androidx.core:core:1.10.1] C:\Users\danie\.gradle\caches\transforms-3\076807b4b1ddff86484d1cd77ec8c63d\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+28        android:name="com.harshRajpurohit.musicPlayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+28-->[androidx.core:core:1.10.1] C:\Users\danie\.gradle\caches\transforms-3\076807b4b1ddff86484d1cd77ec8c63d\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+29        android:protectionLevel="signature" />
+29-->[androidx.core:core:1.10.1] C:\Users\danie\.gradle\caches\transforms-3\076807b4b1ddff86484d1cd77ec8c63d\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+30
+31    <uses-permission android:name="com.harshRajpurohit.musicPlayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+31-->[androidx.core:core:1.10.1] C:\Users\danie\.gradle\caches\transforms-3\076807b4b1ddff86484d1cd77ec8c63d\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+31-->[androidx.core:core:1.10.1] C:\Users\danie\.gradle\caches\transforms-3\076807b4b1ddff86484d1cd77ec8c63d\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+32
+33    <application
+33-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:22:5-116:19
+34        android:name="com.harshRajpurohit.musicPlayer.ApplicationClass"
+34-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:23:9-41
+35        android:allowBackup="true"
+35-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:24:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.10.1] C:\Users\danie\.gradle\caches\transforms-3\076807b4b1ddff86484d1cd77ec8c63d\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+37        android:debuggable="true"
+38        android:extractNativeLibs="true"
+39        android:icon="@mipmap/music_player_icon"
+39-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:25:9-49
+40        android:label="@string/app_name"
+40-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:26:9-41
+41        android:requestLegacyExternalStorage="true"
+41-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:27:9-52
+42        android:roundIcon="@mipmap/music_player_icon_round"
+42-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:28:9-60
+43        android:supportsRtl="true"
+43-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:29:9-35
+44        android:testOnly="true"
+45        android:theme="@style/splash_screen" >
+45-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:30:9-45
+46        <activity
+46-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:33:9-35:40
+47            android:name="com.harshRajpurohit.musicPlayer.PlayNext"
+47-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:34:13-37
+48            android:exported="false" />
+48-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:35:13-37
+49        <activity
+49-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:37:9-40:56
+50            android:name="com.harshRajpurohit.musicPlayer.AboutActivity"
+50-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:38:13-42
+51            android:screenOrientation="portrait" />
+51-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:39:13-49
+52        <activity
+52-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:42:9-45:56
+53            android:name="com.harshRajpurohit.musicPlayer.SettingsActivity"
+53-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:43:13-45
+54            android:screenOrientation="portrait" />
+54-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:44:13-49
+55
+56        <!-- <activity -->
+57        <!-- android:name=".FeedbackActivity" -->
+58        <!-- android:screenOrientation="portrait" -->
+59        <!-- tools:ignore="LockedOrientationActivity" /> -->
+60
+61        <activity
+61-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:52:9-55:56
+62            android:name="com.harshRajpurohit.musicPlayer.SelectionActivity"
+62-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:53:13-46
+63            android:screenOrientation="portrait" />
+63-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:54:13-49
+64        <activity
+64-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:57:9-60:56
+65            android:name="com.harshRajpurohit.musicPlayer.PlaylistDetails"
+65-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:58:13-44
+66            android:screenOrientation="portrait" />
+66-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:59:13-49
+67        <activity
+67-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:62:9-65:56
+68            android:name="com.harshRajpurohit.musicPlayer.PlaylistActivity"
+68-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:63:13-45
+69            android:screenOrientation="portrait" />
+69-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:64:13-49
+70        <activity
+70-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:67:9-70:56
+71            android:name="com.harshRajpurohit.musicPlayer.FavouriteActivity"
+71-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:68:13-46
+72            android:screenOrientation="portrait" />
+72-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:69:13-49
+73        <activity
+73-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:72:9-90:20
+74            android:name="com.harshRajpurohit.musicPlayer.PlayerActivity"
+74-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:73:13-43
+75            android:configChanges="uiMode"
+75-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:74:13-43
+76            android:exported="true"
+76-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:75:13-36
+77            android:launchMode="singleTask"
+77-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:76:13-44
+78            android:noHistory="true"
+78-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:77:13-37
+79            android:screenOrientation="portrait" >
+79-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:78:13-49
+80            <intent-filter>
+80-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:80:13-89:29
+81                <action android:name="android.intent.action.VIEW" />
+81-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:81:17-69
+81-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:81:25-66
+82
+83                <category android:name="android.intent.category.BROWSABLE" />
+83-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:83:17-78
+83-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:83:27-75
+84                <category android:name="android.intent.category.DEFAULT" />
+84-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:84:17-76
+84-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:84:27-73
+85
+86                <data
+86-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:86:17-88:48
+87                    android:mimeType="audio/*"
+87-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:87:21-47
+88                    android:scheme="content" />
+88-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:88:21-45
+89            </intent-filter>
+90        </activity>
+91        <activity
+91-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:92:9-104:20
+92            android:name="com.harshRajpurohit.musicPlayer.MainActivity"
+92-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:93:13-41
+93            android:configChanges="uiMode"
+93-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:94:13-43
+94            android:exported="true"
+94-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:95:13-36
+95            android:launchMode="singleTask"
+95-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:97:13-44
+96            android:screenOrientation="portrait" >
+96-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:96:13-49
+97            <intent-filter>
+97-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:99:13-103:29
+98                <action android:name="android.intent.action.MAIN" />
+98-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:100:17-69
+98-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:100:25-66
+99
+100                <category android:name="android.intent.category.LAUNCHER" />
+100-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:102:17-77
+100-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:102:27-74
+101            </intent-filter>
+102        </activity>
+103
+104        <!-- Updated Permission for Android 14 -->
+105        <service
+105-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:107:9-111:15
+106            android:name="com.harshRajpurohit.musicPlayer.MusicService"
+106-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:108:13-41
+107            android:exported="false"
+107-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:110:13-37
+108            android:foregroundServiceType="mediaPlayback" />
+108-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:109:13-58
+109
+110        <receiver
+110-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:113:9-115:38
+111            android:name="com.harshRajpurohit.musicPlayer.NotificationReceiver"
+111-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:114:13-49
+112            android:enabled="true" />
+112-->C:\Users\danie\AndroidStudioProjects\Reproductor_Musica\app\src\main\AndroidManifest.xml:115:13-35
+113
+114        <provider
+114-->[androidx.emoji2:emoji2:1.2.0] C:\Users\danie\.gradle\caches\transforms-3\3ba076982ffca3f3978fee5f758f5627\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+115            android:name="androidx.startup.InitializationProvider"
+115-->[androidx.emoji2:emoji2:1.2.0] C:\Users\danie\.gradle\caches\transforms-3\3ba076982ffca3f3978fee5f758f5627\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+116            android:authorities="com.harshRajpurohit.musicPlayer.androidx-startup"
+116-->[androidx.emoji2:emoji2:1.2.0] C:\Users\danie\.gradle\caches\transforms-3\3ba076982ffca3f3978fee5f758f5627\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+117            android:exported="false" >
+117-->[androidx.emoji2:emoji2:1.2.0] C:\Users\danie\.gradle\caches\transforms-3\3ba076982ffca3f3978fee5f758f5627\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+118            <meta-data
+118-->[androidx.emoji2:emoji2:1.2.0] C:\Users\danie\.gradle\caches\transforms-3\3ba076982ffca3f3978fee5f758f5627\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+119                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+119-->[androidx.emoji2:emoji2:1.2.0] C:\Users\danie\.gradle\caches\transforms-3\3ba076982ffca3f3978fee5f758f5627\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+120                android:value="androidx.startup" />
+120-->[androidx.emoji2:emoji2:1.2.0] C:\Users\danie\.gradle\caches\transforms-3\3ba076982ffca3f3978fee5f758f5627\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+121            <meta-data
+121-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\danie\.gradle\caches\transforms-3\5f2804b3bf79e51cebf32f7627acc7f3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+122                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+122-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\danie\.gradle\caches\transforms-3\5f2804b3bf79e51cebf32f7627acc7f3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+123                android:value="androidx.startup" />
+123-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\danie\.gradle\caches\transforms-3\5f2804b3bf79e51cebf32f7627acc7f3\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+124        </provider>
+125    </application>
+126
+127</manifest>

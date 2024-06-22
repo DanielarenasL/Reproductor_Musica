@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.harshRajpurohit.musicPlayer"
+    android:versionCode="10"
+    android:versionName="2.0.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="34" />
+
+    <!-- <uses-permission -->
+    <!-- android:name="android.permission.WRITE_EXTERNAL_STORAGE" -->
+    <!-- tools:ignore="ScopedStorage" /> -->
+
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+
+    <!-- permission for android 13 -->
+    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <!-- Permission for Android 14 -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <permission
+        android:name="com.harshRajpurohit.musicPlayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.harshRajpurohit.musicPlayer.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:name="com.harshRajpurohit.musicPlayer.ApplicationClass"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="true"
+        android:icon="@mipmap/music_player_icon"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/music_player_icon_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/splash_screen" >
+        <activity
+            android:name="com.harshRajpurohit.musicPlayer.PlayNext"
+            android:exported="false" />
+        <activity
+            android:name="com.harshRajpurohit.musicPlayer.AboutActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.harshRajpurohit.musicPlayer.SettingsActivity"
+            android:screenOrientation="portrait" />
+
+        <!-- <activity -->
+        <!-- android:name=".FeedbackActivity" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- tools:ignore="LockedOrientationActivity" /> -->
+
+        <activity
+            android:name="com.harshRajpurohit.musicPlayer.SelectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.harshRajpurohit.musicPlayer.PlaylistDetails"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.harshRajpurohit.musicPlayer.PlaylistActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.harshRajpurohit.musicPlayer.FavouriteActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.harshRajpurohit.musicPlayer.PlayerActivity"
+            android:configChanges="uiMode"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.BROWSABLE" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data
+                    android:mimeType="audio/*"
+                    android:scheme="content" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.harshRajpurohit.musicPlayer.MainActivity"
+            android:configChanges="uiMode"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Updated Permission for Android 14 -->
+        <service
+            android:name="com.harshRajpurohit.musicPlayer.MusicService"
+            android:exported="false"
+            android:foregroundServiceType="mediaPlayback" />
+
+        <receiver
+            android:name="com.harshRajpurohit.musicPlayer.NotificationReceiver"
+            android:enabled="true" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.harshRajpurohit.musicPlayer.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

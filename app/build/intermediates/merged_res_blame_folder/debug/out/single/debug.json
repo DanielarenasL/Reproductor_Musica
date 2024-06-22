@@ -1,0 +1,310 @@
+[
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_favourite_view.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/favourite_view.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_player.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_player.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_exit_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/exit_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_details_view.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/details_view.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/menu_nav_menu.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/menu/nav_menu.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_settings.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_add_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/add_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_about.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_about.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_booster_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/booster_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-xxxhdpi_music_player_icon_foreground.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-xxxhdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_fragment_now_playing.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/fragment_now_playing.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_volume_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/volume_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_music_player_icon_slash_screen.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/music_player_icon_slash_screen.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_repeat_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/repeat_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_playlist_view.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/playlist_view.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_feedback.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_gradient_purple.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/gradient_purple.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_splash_screen.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_play_next_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/play_next_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_favourite.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_favourite.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-xxhdpi_music_player_icon_round.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-xxhdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_gradient_blue.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/gradient_blue.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_add_playlist_dialog.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/add_playlist_dialog.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-xxhdpi_music_player_icon_foreground.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-xxhdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_circle_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/circle_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_music_view.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/music_view.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_equalizer_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/equalizer_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_bottom_sheet_dialog.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_about_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/about_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_timer_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/timer_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_playlist.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_playlist.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_more_features.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/more_features.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-xxxhdpi_music_player_icon_round.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-xxxhdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_playlist_details.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_playlist_details.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-xhdpi_music_player_icon_round.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-xhdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-mdpi_music_player_icon_round.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-mdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_audio_booster.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/audio_booster.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-xhdpi_music_player_icon.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-xhdpi/music_player_icon.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_favourite_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/favourite_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_search_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/search_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-xxhdpi_music_player_icon.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-xxhdpi/music_player_icon.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_gradient_green.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/gradient_green.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_selection.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_selection.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_back_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/back_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_remove_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/remove_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_shuffle_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/shuffle_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_previous_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/previous_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_delete_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/delete_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_activity_play_next.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/activity_play_next.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-xxxhdpi_music_player_icon.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-xxxhdpi/music_player_icon.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-hdpi_music_player_icon_foreground.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-hdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/menu_search_view_menu.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/menu/search_view_menu.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-hdpi_music_player_icon.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-hdpi/music_player_icon.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-mdpi_music_player_icon_foreground.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-mdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_playlist_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/playlist_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_favourite_empty_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/favourite_empty_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_play_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/play_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-hdpi_music_player_icon_round.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-hdpi/music_player_icon_round.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-xhdpi_music_player_icon_foreground.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-xhdpi/music_player_icon_foreground.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_music_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/music_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_settings_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/settings_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_feedback_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/feedback_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-anydpi-v26_music_player_icon_round.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-anydpi-v26/music_player_icon_round.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_next_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/next_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_scroll_bar_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/scroll_bar_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-mdpi_music_player_icon.png.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-mdpi/music_player_icon.png"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_custom_search_view.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/custom_search_view.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/layout_nav_header.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/layout/nav_header.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_gradient_black.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/gradient_black.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_pause_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/pause_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_sort_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/sort_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/mipmap-anydpi-v26_music_player_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/mipmap-anydpi-v26/music_player_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_share_icon.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/share_icon.xml"
+    },
+    {
+        "merged": "com.harshRajpurohit.musicPlayer.app-merged_res-31:/drawable_gradient_pink.xml.flat",
+        "source": "com.harshRajpurohit.musicPlayer.app-main-33:/drawable/gradient_pink.xml"
+    }
+]

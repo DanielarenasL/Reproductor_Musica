@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-xxxhdpi_icono_app_foreground.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-xxxhdpi/icono_app_foreground.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/xml_backup_rules.xml.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-mdpi_icono_app.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-mdpi/icono_app.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-xxhdpi_icono_app_round.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-xxhdpi/icono_app_round.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-xhdpi_icono_app_round.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-xhdpi/icono_app_round.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-xxhdpi_icono_app_foreground.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-xxhdpi/icono_app_foreground.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-hdpi_icono_app_foreground.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-hdpi/icono_app_foreground.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-xxhdpi_icono_app.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-xxhdpi/icono_app.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-mdpi_icono_app_round.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-mdpi/icono_app_round.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-xhdpi_icono_app_foreground.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-xhdpi/icono_app_foreground.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-xhdpi_icono_app.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-xhdpi/icono_app.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/drawable_icono_app_slash_screen.png.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/drawable/icono_app_slash_screen.png"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-anydpi-v26_icono_app_round.xml.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-anydpi-v26/icono_app_round.xml"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-xxxhdpi_icono_app_round.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-xxxhdpi/icono_app_round.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-mdpi_icono_app_foreground.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-mdpi/icono_app_foreground.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/drawable_splash_screen.xml.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/drawable/splash_screen.xml"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-hdpi_icono_app_round.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-hdpi/icono_app_round.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-hdpi_icono_app.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-hdpi/icono_app.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/xml_data_extraction_rules.xml.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-xxxhdpi_icono_app.webp.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-xxxhdpi/icono_app.webp"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.Oconer49.musicaapp-debug-44:/mipmap-anydpi-v26_icono_app.xml.flat",
+        "source": "com.Oconer49.musicaapp-main-46:/mipmap-anydpi-v26/icono_app.xml"
+    }
+]
